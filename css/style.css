@@ -1,0 +1,15 @@
+.jumbotron {
+    height: 500px;
+}
+
+.box {
+    height: 150px;
+    width: 150px;
+    background-color: black;
+}
+
+.box2 {
+    height: 150px;
+    width: 80%;
+    background-color: black;
+}
